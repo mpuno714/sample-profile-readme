@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Marchelo*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I’m a club volleyball coach with 3 years of experience. I love watching people progress and overcome obstacles, because that sense of accomplishment is the most rewarding part of coaching for me._
 ## ⚒️ Skills
 ![Coaching](https://img.shields.io/badge/Coaching-green)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
